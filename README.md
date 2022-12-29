@@ -14,7 +14,7 @@ Print the values
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
+```python
 #Program to swap two values.
 #Developed by:Rajesh A 
 #RegisterNumber:22008551
